@@ -1,0 +1,80 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"67dfc8f2-7338-40fd-b763-edea826c57d2\" name=\"Changes\" comment=\"test commit\">\n      <change afterPath=\"$PROJECT_DIR$/src/ru/mirea/lab1/Argyments.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/ru/mirea/lab1/Array.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/ru/mirea/lab1/Factorial.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/ru/mirea/lab1/HormonalSeries.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/ru/mirea/lab1/While.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Main.java\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;shlyapnik09&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"d4fa870f-1657-4f33-81d9-0cb5d7b49f42\" />\n        <option name=\"url\" value=\"https://github.com/shlyapnik09/Homework_Java.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2VzYicKOdSdL1z81MeZtT6MtKvK\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/macbookanatoliy/IdeaProjects/Homework_Java/src/Main.java&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RunManager\">\n    <configuration name=\"Array\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"ru.mirea.lab1.Array\" />\n      <module name=\"Homework_Java\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"ru.mirea.lab1.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Array\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"67dfc8f2-7338-40fd-b763-edea826c57d2\" name=\"Changes\" comment=\"\" />\n      <created>1695840503265</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1695840503265</updated>\n      <workItem from=\"1695840504256\" duration=\"1363000\" />\n      <workItem from=\"1696582536138\" duration=\"5877000\" />\n      <workItem from=\"1696939310063\" duration=\"1349000\" />\n      <workItem from=\"1696941655418\" duration=\"636000\" />\n      <workItem from=\"1697225415953\" duration=\"738000\" />\n      <workItem from=\"1699682542189\" duration=\"4389000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"test commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1695841018230</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1695841018230</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"test commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"test commit\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f38dcc297892a46da9b9ca752e3a8188a6449ba9)
++++ b/.idea/workspace.xml	(date 1699688343147)
+@@ -5,13 +5,11 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="67dfc8f2-7338-40fd-b763-edea826c57d2" name="Changes" comment="test commit">
+-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Argyments.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Array.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Factorial.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/HormonalSeries.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/While.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/Argyments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Argyments.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Array.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Factorial.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/HormonalSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/HormonalSeries.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/While.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -99,7 +97,7 @@
+       <workItem from="1696939310063" duration="1349000" />
+       <workItem from="1696941655418" duration="636000" />
+       <workItem from="1697225415953" duration="738000" />
+-      <workItem from="1699682542189" duration="4389000" />
++      <workItem from="1699682542189" duration="4862000" />
+     </task>
+     <task id="LOCAL-00001" summary="test commit">
+       <option name="closed" value="true" />
+@@ -109,7 +107,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1695841018230</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="test commit">
++      <option name="closed" value="true" />
++      <created>1699687885605</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1699687885605</updated>
++    </task>
++    <task id="LOCAL-00003" summary="test commit">
++      <option name="closed" value="true" />
++      <created>1699688050429</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1699688050429</updated>
++    </task>
++    <task id="LOCAL-00004" summary="test commit">
++      <option name="closed" value="true" />
++      <created>1699688121335</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1699688121335</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -117,6 +139,6 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="test commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="" />
+   </component>
+ </project>
+\ No newline at end of file
