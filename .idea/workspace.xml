@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67dfc8f2-7338-40fd-b763-edea826c57d2" name="Changes" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/TestAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/TestBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/ConsoleOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Literal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/PrimitiveTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/ValueСonverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="67dfc8f2-7338-40fd-b763-edea826c57d2" name="Changes" comment="test commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +108,7 @@
       <workItem from="1697225415953" duration="738000" />
       <workItem from="1699682542189" duration="4389000" />
       <workItem from="1699964265921" duration="588000" />
-      <workItem from="1700238422287" duration="10559000" />
+      <workItem from="1700238422287" duration="10979000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -145,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699688763744</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1700255811284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700255811284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
