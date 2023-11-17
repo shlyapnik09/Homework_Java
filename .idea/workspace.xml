@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67dfc8f2-7338-40fd-b763-edea826c57d2" name="Changes" comment="test commit" />
+    <list default="true" id="67dfc8f2-7338-40fd-b763-edea826c57d2" name="Changes" comment="test commit">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/TestBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/ConsoleOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Literal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/PrimitiveTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/ValueСonverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +66,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/macbookanatoliy/IdeaProjects/Homework_Java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -72,8 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestAuthor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab2.TestAuthor" />
+      <module name="Homework_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAuthor" />
         <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
@@ -92,6 +118,8 @@
       <workItem from="1696941655418" duration="636000" />
       <workItem from="1697225415953" duration="738000" />
       <workItem from="1699682542189" duration="4389000" />
+      <workItem from="1699964265921" duration="588000" />
+      <workItem from="1700238422287" duration="10559000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -109,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699688650272</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1699688763744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699688763744</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
