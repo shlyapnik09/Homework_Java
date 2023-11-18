@@ -4,11 +4,13 @@ public class CurrencyConverter {
     private double exchangeRate; // переменная для хранения курса обмена
 
     public CurrencyConverter(double exchangeRate) {
+
         this.exchangeRate = exchangeRate;
     }
 
     // Метод для конвертации суммы из одной валюты в другую
     public double convert(double amount) {
+
         return amount * exchangeRate;
     }
 
