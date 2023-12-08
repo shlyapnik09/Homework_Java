@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67dfc8f2-7338-40fd-b763-edea826c57d2" name="Changes" comment="test commit">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/ChildShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/ShapeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/StudentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/FootballMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/ComputerShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/NameableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/PrintableArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/TemperatureConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/CountNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/PrintRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/TesterStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/CurrencyConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +83,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Array">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.lab1.Array" />
       <module name="Homework_Java" />
@@ -116,6 +135,21 @@
       <workItem from="1700238422287" duration="13999000" />
       <workItem from="1700286965559" duration="1392000" />
       <workItem from="1700288365655" duration="84000" />
+      <workItem from="1700288453761" duration="4588000" />
+      <workItem from="1700855292812" duration="3173000" />
+      <workItem from="1700864144608" duration="2999000" />
+      <workItem from="1700867156831" duration="19000" />
+      <workItem from="1700867180053" duration="24000" />
+      <workItem from="1700893714395" duration="6917000" />
+      <workItem from="1700993501196" duration="615000" />
+      <workItem from="1701415258530" duration="2183000" />
+      <workItem from="1701505829879" duration="613000" />
+      <workItem from="1702037599547" duration="36000" />
+      <workItem from="1702037650858" duration="73000" />
+      <workItem from="1702037729800" duration="18000" />
+      <workItem from="1702037753540" duration="35000" />
+      <workItem from="1702037795627" duration="34000" />
+      <workItem from="1702037836281" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -173,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700281357634</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1700291267402</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700291267402</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

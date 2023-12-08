@@ -19,10 +19,10 @@ public class Main {
         System.out.println("Средняя температура: " + myFavoriteSeason.getAverageTemperature());
         System.out.println("Описание: " + myFavoriteSeason.getDescription());
 
-        // 2) Метод, который выводит сообщение в зависимости от времени года
+        //  Метод, который выводит сообщение в зависимости от времени года
         printSeasonDescription(Season.Лето);
 
-        // 6) Распечатываем все времена года, среднюю температуру и описание
+        //  Распечатываем все времена года, среднюю температуру и описание
         for (Season season : Season.values()) {
             System.out.println(season + ", средняя температура: " + season.getAverageTemperature() + ", " + season.getDescription());
         }
