@@ -5,27 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67dfc8f2-7338-40fd-b763-edea826c57d2" name="Changes" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/ChildShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/ShapeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4_1/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/FootballMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/ComputerShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/NameableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/PrintableArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/TemperatureConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/CountNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/PrintRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/TesterStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/DateComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/DateTimeInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab12/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Shoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/SortingPeopleByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/TestSortingPeopleByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/TestStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab9/TesterStudent.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +80,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab1.Array" />
+  <component name="RunManager" selected="Application.Animation">
+    <configuration name="Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab12.Animation" />
       <module name="Homework_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab1.*" />
+          <option name="PATTERN" value="ru.mirea.lab12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +94,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAuthor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab2.TestAuthor" />
+    <configuration name="DateComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab11.DateComparison" />
       <module name="Homework_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab2.*" />
+          <option name="PATTERN" value="ru.mirea.lab11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTimeInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab11.DateTimeInput" />
+      <module name="Homework_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.lab11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab11.ListTest" />
+      <module name="Homework_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.lab11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab10.Student" />
+      <module name="Homework_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.lab10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,8 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.TestAuthor" />
+        <item itemvalue="Application.Animation" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.DateTimeInput" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.DateComparison" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +189,10 @@
       <workItem from="1702037753540" duration="35000" />
       <workItem from="1702037795627" duration="34000" />
       <workItem from="1702037836281" duration="38000" />
+      <workItem from="1702038357876" duration="7914000" />
+      <workItem from="1702071933514" duration="12000" />
+      <workItem from="1702104305084" duration="7164000" />
+      <workItem from="1702112123856" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -215,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700291267402</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1702038393661</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702038393661</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
