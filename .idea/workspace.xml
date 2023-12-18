@@ -5,24 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67dfc8f2-7338-40fd-b763-edea826c57d2" name="Changes" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/DateComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/DateTimeInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/Information.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab12/Animation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Shoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/SortingPeopleByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/TestSortingPeopleByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab13/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab13/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab15/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab15/CountrySelectionMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab16/PasswordChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab16/TextEditorWithMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab9/TesterStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_Java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +30,7 @@
       <list>
         <option value="package-info" />
         <option value="Enum" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -68,6 +65,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -80,13 +78,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Animation">
-    <configuration name="Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab12.Animation" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab15.Calculator" />
       <module name="Homework_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab12.*" />
+          <option name="PATTERN" value="ru.mirea.lab15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab11.DateComparison" />
+    <configuration name="CountrySelectionMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab15.CountrySelectionMenu" />
       <module name="Homework_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab11.*" />
+          <option name="PATTERN" value="ru.mirea.lab15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab11.DateTimeInput" />
+    <configuration name="PasswordChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab16.PasswordChecker" />
       <module name="Homework_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab11.*" />
+          <option name="PATTERN" value="ru.mirea.lab16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab11.ListTest" />
+    <configuration name="Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab14.Plus" />
       <module name="Homework_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab11.*" />
+          <option name="PATTERN" value="ru.mirea.lab14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab10.Student" />
+    <configuration name="TextEditorWithMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab16.TextEditorWithMenu" />
       <module name="Homework_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab10.*" />
+          <option name="PATTERN" value="ru.mirea.lab16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Animation" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.DateTimeInput" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.DateComparison" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.TextEditorWithMenu" />
+        <item itemvalue="Application.PasswordChecker" />
+        <item itemvalue="Application.CountrySelectionMenu" />
+        <item itemvalue="Application.Plus" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +191,8 @@
       <workItem from="1702071933514" duration="12000" />
       <workItem from="1702104305084" duration="7164000" />
       <workItem from="1702112123856" duration="382000" />
+      <workItem from="1702674738586" duration="9474000" />
+      <workItem from="1702715595431" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -266,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702038393661</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1702674773151</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702674773151</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
