@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67dfc8f2-7338-40fd-b763-edea826c57d2" name="Changes" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab13/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab13/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab15/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab15/CountrySelectionMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab16/PasswordChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab16/TextEditorWithMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_Java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +65,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.lab15.Calculator" />
       <module name="Homework_Java" />
@@ -193,6 +180,8 @@
       <workItem from="1702112123856" duration="382000" />
       <workItem from="1702674738586" duration="9474000" />
       <workItem from="1702715595431" duration="2299000" />
+      <workItem from="1702894078164" duration="63000" />
+      <workItem from="1703231536724" duration="1781000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -274,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702674773151</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1702894121299</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702894121299</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
